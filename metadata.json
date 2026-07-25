@@ -1,0 +1,6 @@
+{
+  "name": "RecipeVerse AI",
+  "description": "Turn your ingredients or pantry photos into delicious, personalized AI-crafted recipes from around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
